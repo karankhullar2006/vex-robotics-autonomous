@@ -52,7 +52,7 @@ https://github.com/karankhullar2006/vex-robotics-autonomous/raw/main/VEX_Robotic
 
 ## 👨‍💻 My Role
 
-- Led a team of 4 through the full design and development process
+- Worked in a team of 4 through the full design and development process
 - Wrote the autonomous navigation logic in Python
 - Coordinated hardware assembly and software development across the team
 - Debugged sensor readings and motor calibration during testing
