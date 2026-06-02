@@ -6,7 +6,7 @@ An autonomous robot built with VEX V5 that can traverse through a predefined map
 
 ## 🎥 Demo
 
-https://github.com/YOUR_USERNAME/vex-robotics-autonomous/raw/main/demo.mp4
+https://github.com/karankhullar2006/vex-robotics-autonomous/raw/main/VEX_Robotics_Side_Project.mp4
 
 > Robot autonomously navigating through a map defined by black lines on a white surface.
 
