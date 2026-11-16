@@ -79,4 +79,4 @@ https://github.com/karankhullar2006/vex-robotics-autonomous/raw/main/VEX_Robotic
 
 ## 🏫 Context
 
-Built as part of the Engineering Club at St. Marcellinus Secondary School. This project focused on autonomous navigation — a core concept in robotics and automotive systems such as Ford's driver assistance and self-driving features.
+Built as part of the Engineering Club at St. Marcellinus Secondary School. This project focused on autonomous navigation — a core concept in robotics and automotive systems such as driver assistance and self-driving features.
